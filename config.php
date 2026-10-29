@@ -7,9 +7,9 @@
 session_start();
 
 define('DB_HOST', 'localhost');            // хост СУБД (обычно localhost)
-define('DB_NAME', '');                     // имя базы данных
-define('DB_USER', '');                     // пользователь базы данных
-define('DB_PASS', '');                     // пароль базы данных
+define('DB_NAME', 'ddbrow05_lexa');        // имя базы данных
+define('DB_USER', 'ddbrow05_lexa');        // пользователь базы данных
+define('DB_PASS', '123456aA');             // пароль базы данных
 
 // Учётные данные администратора панели управления сайтом (ПР №4).
 // Логин фиксирован по заданию: hotel123.
